@@ -18,6 +18,7 @@
 ## the console will tell you the private key (token) and We can use Firebase Cloud Message Platform to send Message to browser with private key
 private key (token)
 <img width="615" alt="截圖 2022-06-28 上午9 53 40" src="https://user-images.githubusercontent.com/74755514/176070648-35641ebf-400a-47ea-b8a8-626e45bb15b6.png">
+
 Firebase Cloud Message Platform
 <img width="1112" alt="截圖 2022-06-28 上午10 00 51" src="https://user-images.githubusercontent.com/74755514/176073197-0ccdfe88-6969-4ea3-8511-fe2436a058a5.png">
 
