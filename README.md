@@ -1,3 +1,6 @@
+## Edge, Chrome, Fox等遊覽器皆可使用
+## 目前Safari不支援Web Push(目前是15.5最新版本) ,但Push API的Document顯示16版就可支援 但仍然是partial support 具體情況目前還不清楚
+
 ## Download package firebase@8.8.0, react, react-toastify.....
 
 ## Create a project in firebase platform
