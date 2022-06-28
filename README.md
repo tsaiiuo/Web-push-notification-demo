@@ -14,6 +14,9 @@
 ## npm run start
 
 ## the console will tell you the private key (token) and We can use Firebase Cloud Message Platform to send Message to browser with private key
+private key (token)
 <img width="615" alt="截圖 2022-06-28 上午9 53 40" src="https://user-images.githubusercontent.com/74755514/176070648-35641ebf-400a-47ea-b8a8-626e45bb15b6.png">
+Firebase Cloud Message Platform
 <img width="1053" alt="截圖 2022-06-28 上午9 54 38" src="https://user-images.githubusercontent.com/74755514/176071024-fd96d1e8-09b5-41f1-8022-5200a431a773.png">
-
+Result
+<img width="1133" alt="截圖 2022-06-28 上午9 56 54" src="https://user-images.githubusercontent.com/74755514/176071811-c1807f3e-1021-4a49-b023-7535d4f31c85.png">
