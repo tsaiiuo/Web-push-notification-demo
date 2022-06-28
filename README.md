@@ -9,7 +9,7 @@
 <img width="1057" alt="截圖 2022-06-28 上午9 52 24" src="https://user-images.githubusercontent.com/74755514/176070240-f15f1b78-5791-4862-b39e-89d510e9b765.png">
 
 
-## and change REACT_APP_VAPID_KEY in .env with your public key
+## and change REACT_APP_VAPID_KEY in .env file with your public key
 <img width="706" alt="截圖 2022-06-28 上午9 53 12" src="https://user-images.githubusercontent.com/74755514/176070492-faa35643-43b4-4948-be9e-eaac867b7f28.png">
 
 
